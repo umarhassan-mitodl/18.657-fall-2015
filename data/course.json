@@ -45,7 +45,8 @@
     "website": "18-657-mathematics-of-machine-learning-fall-2015"
   },
   "course_title": "Mathematics of Machine Learning",
-  "course_description": "Broadly speaking, Machine Learning refers to the automated identification of patterns in data. As such it has been a fertile ground for new statistical and algorithmic developments. The purpose of this course is to provide a mathematically rigorous introduction to these developments with emphasis on methods and their analysis.\n\nYou can read more about Prof. Rigollet's work and courses {{% resource_link \"a323c30f-470f-4e65-9bbd-5501c6ab4fd9\" \"on his website\" %}}.\n",
+  "hide_download": true,
+  "course_description": "Broadly speaking, Machine Learning refers to the automated identification of patterns in data. As such it has been a fertile ground for new statistical and algorithmic developments. The purpose of this course is to provide a mathematically rigorous introduction to these developments with emphasis on methods and their analysis.\n\nYou can read more about Prof. Rigollet's work and courses [on his website](http://www-math.mit.edu/~rigollet/).\n",
   "department_numbers": [
     "18"
   ],
@@ -55,6 +56,7 @@
     "content": "5f344f06-f06b-6e8a-b8f7-60d0a45f233e",
     "website": "18-657-mathematics-of-machine-learning-fall-2015"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets with Solutions"
